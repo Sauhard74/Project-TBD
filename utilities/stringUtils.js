@@ -78,4 +78,5 @@ export const replaceBlockquotesWithParagraphs = (html) => {
   const replacedHtml = html.replace(regex, '<p><br></p>');
 
   return replacedHtml;
+  
 };
