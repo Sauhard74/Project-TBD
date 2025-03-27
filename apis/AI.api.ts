@@ -15,4 +15,5 @@ export const getAIConfigForClass = async (classId: string) => {
     captureException(error);
     throw error;
   }
+  
 };
