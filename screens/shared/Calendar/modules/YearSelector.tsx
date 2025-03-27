@@ -37,6 +37,7 @@ const YearSelector = ({ selectedYear, setSelectedYear }: Props) => {
       )}
     </View>
   );
+  
 };
 
 export default YearSelector;
