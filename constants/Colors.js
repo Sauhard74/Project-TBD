@@ -25,4 +25,5 @@ export const Colors = {
   SalmonDark: '#FF5733',
   CloudWhite: '#E2E8F0', // Seperator color in dropdown
   LinkColor : "#2688EB"
+  
 };
